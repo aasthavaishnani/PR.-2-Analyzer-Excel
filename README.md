@@ -29,7 +29,7 @@ The primary goal of this project was to analyze customer behavior, regional perf
 ---
 
 ## 📂 Sheet Structure
-- **Dataset:** Contains cleaned raw data with over 500 records.
+- **Dataset:** Contains cleaned raw data with over 200 records.
 - **Analysis:** Dedicated space for Regression outputs, Descriptive Stats, and What-If models.
 - **Charts:** Backend Pivot Tables and data aggregation for visualization.
 - **Dashboard:** The final interactive user interface with Bar, Line, and Pie charts.
